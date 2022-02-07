@@ -14,7 +14,7 @@ public class WebController {
     public String profile(Model model) {
         // Tạo thông tin
         List<Info> profile = new ArrayList<>();
-        profile.add(new Info("name", "Võ Đứ Hiển"));
+        profile.add(new Info("name", "Võ Đức Hiển"));
         profile.add(new Info("nickname", "hachiko3179"));
         profile.add(new Info("gmail", "thanhanh3179@gmail.com"));
         profile.add(new Info("mylove", "Thân Thị Hạnh"));
